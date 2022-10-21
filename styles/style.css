@@ -6,6 +6,7 @@
 header{
     background-color: aqua;
     height: 10vh;
+    display: flex;
 }
 main{
     background-color: blue;
@@ -14,4 +15,8 @@ main{
 footer{
     background-color: brown;
     height: 15vh;
+}
+section{
+    background-color: chocolate;
+    
 }
