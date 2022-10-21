@@ -20,3 +20,9 @@ section{
     background-color: chocolate;
     
 }
+main{
+    background-color: coral;
+    height: 20vh;
+    border-radius: 1px;
+    
+}
