@@ -13,7 +13,7 @@ main{
     height: 20vh;
 }
 footer{
-    background-color: brown;
+    background-color: yellowgreen;
     height: 15vh;
 }
 section{
@@ -24,5 +24,5 @@ main{
     background-color: coral;
     height: 20vh;
     border-radius: 1px;
-    
+
 }
